@@ -16,6 +16,8 @@ var padre = document.getElementsByTagName("li")[0].parentNode,
 padre.replaceChild(elemento, referencia);
 
 
+console.log("Hola");
+
 //otra
 var padre = document.getElementsByTagName("li")[0].parentNode,
     referencia = document.getElementsByTagName("li")[0];
